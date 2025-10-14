@@ -137,9 +137,9 @@ Edge (OpenCV) ----> Fog Node(s) ----> Cloud
     - Contour detection for object localization.
     - Returns coordinates of detected red objects.
 
-### ACO Improvement over Round Robin
+### ACO Improvement over Traditional Scheduling Methods
 
-Below is the plot showing the improvement percentage of ACO over Round Robin with respect to the number of IoT sensors:
+Below is the plot showing the improvement percentage of ACO over Traditional Scheduling Methods with respect to the number of IoT sensors:
 
 ![ACO Improvement over Round Robin](data/aco_improvement_over_rr.png)
 
